@@ -119,8 +119,6 @@ To run tests, run the following command:
 ## 👥 Authors <a name="author"></a>
 In this project we implement a class with some methods using test-driven development (TDD).
 
-> I was the sole collaborator in this project.
-
 👤 **Faranosh Amini**
 
 - GitHub: [@githubhandle](https://github.com/FaranoshAmini)
@@ -136,9 +134,9 @@ In this project we implement a class with some methods using test-driven develop
 
 👤 **Okechukwu Muokwugwo**
 
-- GitHub: [@githubhandle](https://github.com/Okechukwu-muokwugwo)
+- GitHub: [@Okechukwu-muokwugwo](https://github.com/Okechukwu-muokwugwo)
 - Twitter: [@twitterhandle](https://twitter.com/excel4eva)
-- LinkedIn: [LinkedIn](LinkedIn.com/in/okeimuokwugwo)
+- LinkedIn: [LinkedIn](https://Linkedin.com/in/okeimuokwugwo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
